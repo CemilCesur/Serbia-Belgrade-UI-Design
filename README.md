@@ -2,5 +2,5 @@
 ![GitHub README File Generator CLI](1.png)
 
  ```bash
-    Made with C & Linux
+    Made with C & GTK
     
